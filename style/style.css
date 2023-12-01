@@ -79,4 +79,9 @@ nav {
 
 nav a {
   margin-left: 30px;
+  color: #696484;
+}
+
+nav a:hover{
+  color: #242424;
 }
